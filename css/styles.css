@@ -1,3 +1,9 @@
+img {
+  width: 100%;
+  height: auto;
+}
+
+
 body {
     color: #40514E;
     margin: 0;
